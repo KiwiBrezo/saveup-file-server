@@ -1,0 +1,28 @@
+{
+  "name": "saveup-file-server",
+  "version": "1.0.0",
+  "description": "A simple home data storage server(for images)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KiwiBrezo/saveup-file-server.git"
+  },
+  "keywords": [
+    "data-server",
+    "home-server",
+    "storage"
+  ],
+  "author": "Jan Breznar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KiwiBrezo/saveup-file-server/issues"
+  },
+  "homepage": "https://github.com/KiwiBrezo/saveup-file-server#readme",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1"
+  }
+}
